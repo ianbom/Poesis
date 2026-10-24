@@ -1,0 +1,772 @@
+[
+  {
+    "file": "/images/detail-architecture-1.jpg",
+    "source": "https://unsplash.com/photos/landscape-photography-of-gray-concrete-building-XK0faa4_mCQ",
+    "photographer": "Simone Hutsch",
+    "originalAlt": "landscape photography of gray concrete building",
+    "download": "https://images.unsplash.com/photo-1546414701-81cc6963c67f?auto=format&fit=max&w=1400&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/detail-architecture-10.jpg",
+    "source": "https://unsplash.com/photos/geometric-building-facade-with-jagged-peaks-K1PqBHN_Ivs",
+    "photographer": "qui nguyen",
+    "originalAlt": "A white geometric building facade with jagged peaks against a deep blue sky",
+    "download": "https://images.unsplash.com/photo-1787728165633-e7c56bc88623?auto=format&fit=max&w=1400&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/detail-architecture-11.jpg",
+    "source": "https://unsplash.com/photos/modern-spiral-staircase-with-concrete-and-metal-railings-9YtjAPMW6Y4",
+    "photographer": "Antonio Cangianiello",
+    "originalAlt": "Modern spiral staircase with concrete and metal railings",
+    "download": "https://images.unsplash.com/photo-1766587444660-6aebae05b0e5?auto=format&fit=max&w=1400&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/detail-architecture-12.jpg",
+    "source": "https://unsplash.com/photos/concrete-ceiling-with-square-skylights-and-a-central-hanging-structure-Z6NZgwnhEG8",
+    "photographer": "Declan Sun",
+    "originalAlt": "Concrete ceiling with square skylights and a central hanging structure",
+    "download": "https://images.unsplash.com/photo-1780362507842-f9e75fbdce03?auto=format&fit=max&w=1400&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/detail-architecture-14.jpg",
+    "source": "https://unsplash.com/photos/a-black-and-white-photo-of-a-tall-building-4frZSdcZaE0",
+    "photographer": "Alexander Psiuk",
+    "originalAlt": "a black and white photo of a tall building",
+    "download": "https://images.unsplash.com/photo-1716249738093-623a70ad6531?auto=format&fit=max&w=1400&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/detail-architecture-2.jpg",
+    "source": "https://unsplash.com/photos/a-black-and-white-photo-of-a-walkway-bWXMh1a9rVw",
+    "photographer": "Marek Pavlík",
+    "originalAlt": "A black and white photo of a walkway",
+    "download": "https://images.unsplash.com/photo-1737442981890-0a87ef3ce9f5?auto=format&fit=max&w=1400&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/detail-architecture-4.jpg",
+    "source": "https://unsplash.com/photos/gray-concrete-monolith-ItvVUpgac0o",
+    "photographer": "Simone Hutsch",
+    "originalAlt": "gray concrete monolith",
+    "download": "https://images.unsplash.com/photo-1522743791393-522312deeebf?auto=format&fit=max&w=1400&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/detail-architecture-5.jpg",
+    "source": "https://unsplash.com/photos/gray-concrete-building-during-daytime-9AjwOAIdsII",
+    "photographer": "Ricardo Gomez Angel",
+    "originalAlt": "gray concrete building during daytime",
+    "download": "https://images.unsplash.com/photo-1625390711106-3728815ebcd9?auto=format&fit=max&w=1400&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/detail-architecture-6.jpg",
+    "source": "https://unsplash.com/photos/low-angle-photography-of-gray-building-at-daytime-Sc5RKXLBjGg",
+    "photographer": "Anders Jildén",
+    "originalAlt": "low angle photography of gray building at daytime",
+    "download": "https://images.unsplash.com/photo-1488972685288-c3fd157d7c7a?auto=format&fit=max&w=1400&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/detail-architecture-7.jpg",
+    "source": "https://unsplash.com/photos/curved-concrete-structure-with-board-marked-texture-knOOfAu9geA",
+    "photographer": "Mattia Revelant",
+    "originalAlt": "A curved concrete structure with board-marked texture against a clear blue sky",
+    "download": "https://images.unsplash.com/photo-1787228770216-669baf984e87?auto=format&fit=max&w=1400&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/detail-architecture-8.jpg",
+    "source": "https://unsplash.com/photos/architectural-photo-of-building-MPWbGMrZ6eo",
+    "photographer": "Christophe Laurenceau",
+    "originalAlt": "architectural photo of building",
+    "download": "https://images.unsplash.com/photo-1504625709867-b4e45e3bb9dd?auto=format&fit=max&w=1400&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/detail-architecture-9.jpg",
+    "source": "https://unsplash.com/photos/geometric-concrete-stairs-cast-shadows-in-sunlight-AjKly-ZTuEY",
+    "photographer": "Palina Kharlanovich",
+    "originalAlt": "Geometric concrete stairs cast shadows in sunlight",
+    "download": "https://images.unsplash.com/photo-1774762720340-8067294bb494?auto=format&fit=max&w=1400&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/detail-exterior-1.jpg",
+    "source": "https://unsplash.com/photos/architectural-concrete-structure-surrounded-by-green-fields-and-trees-J2Y59Q042eg",
+    "photographer": "Maverick Frame",
+    "originalAlt": "Architectural concrete structure surrounded by green fields and trees",
+    "download": "https://images.unsplash.com/photo-1782890811564-9332ec0eb8be?auto=format&fit=max&w=1400&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/detail-exterior-10.jpg",
+    "source": "https://unsplash.com/photos/a-concrete-building-with-a-wooden-door-and-balcony-npNkhXQrdPY",
+    "photographer": "Yana Marudova",
+    "originalAlt": "a concrete building with a wooden door and balcony",
+    "download": "https://images.unsplash.com/photo-1679513118758-262653925d62?auto=format&fit=max&w=1400&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/detail-exterior-11.jpg",
+    "source": "https://unsplash.com/photos/a-tall-building-with-a-palm-tree-in-front-of-it-zRBujTnBwpc",
+    "photographer": "Timo Wielink",
+    "originalAlt": "a tall building with a palm tree in front of it",
+    "download": "https://images.unsplash.com/photo-1674758978719-6121d8fbefb4?auto=format&fit=max&w=1400&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/detail-exterior-12.jpg",
+    "source": "https://unsplash.com/photos/white-concrete-building-under-blue-sky-during-daytime-4G6DOKSwO8U",
+    "photographer": "Victor",
+    "originalAlt": "white concrete building under blue sky during daytime",
+    "download": "https://images.unsplash.com/photo-1549791084-5f78368b208b?auto=format&fit=max&w=1400&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/detail-exterior-13.jpg",
+    "source": "https://unsplash.com/photos/white-and-brown-house-near-green-trees-during-daytime-Wx_Ily_Phuk",
+    "photographer": "Pavel Neznanov",
+    "originalAlt": "white and brown house near green trees during daytime",
+    "download": "https://images.unsplash.com/photo-1630908932803-1f6891bfab3f?auto=format&fit=max&w=1400&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/detail-exterior-2.jpg",
+    "source": "https://unsplash.com/photos/a-white-building-with-a-blue-sky-in-the-background-h-LR8zHM_2A",
+    "photographer": "Jonas Gerlach",
+    "originalAlt": "A white building with a blue sky in the background",
+    "download": "https://images.unsplash.com/photo-1732535807990-b19db3464e75?auto=format&fit=max&w=1400&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/detail-exterior-3.jpg",
+    "source": "https://unsplash.com/photos/modern-building-with-angular-balconies-against-a-cloudy-sky-qwPBQV5J2ng",
+    "photographer": "Raúl Mermans García",
+    "originalAlt": "Modern building with angular balconies against a cloudy sky",
+    "download": "https://images.unsplash.com/photo-1781451966241-74725d564472?auto=format&fit=max&w=1400&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/detail-exterior-4.jpg",
+    "source": "https://unsplash.com/photos/a-concrete-building-with-stairs-leading-up-to-it-RECjfdtDVLo",
+    "photographer": "Declan Sun",
+    "originalAlt": "A concrete building with stairs leading up to it",
+    "download": "https://images.unsplash.com/photo-1730170787463-53a7074137fa?auto=format&fit=max&w=1400&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/detail-exterior-5.jpg",
+    "source": "https://unsplash.com/photos/modern-house-with-concrete-facade-olIi_yUXHW8",
+    "photographer": "nad Assa",
+    "originalAlt": "A modern house with a concrete facade, wooden accents, and a black metal gate",
+    "download": "https://images.unsplash.com/photo-1790213680570-79cb3f02d4d2?auto=format&fit=max&w=1400&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/detail-exterior-6.jpg",
+    "source": "https://unsplash.com/photos/modern-concrete-and-wood-house-with-trees-F-slnkFvcag",
+    "photographer": "POOJAN THANEKAR",
+    "originalAlt": "Modern concrete and wood house with trees",
+    "download": "https://images.unsplash.com/photo-1756706718604-ef4af3970e33?auto=format&fit=max&w=1400&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/detail-exterior-7.jpg",
+    "source": "https://unsplash.com/photos/modern-concrete-house-on-stilts-amidst-rocky-green-landscape-psXpVaedGRw",
+    "photographer": "Maverick Frame",
+    "originalAlt": "Modern concrete house on stilts amidst rocky, green landscape",
+    "download": "https://images.unsplash.com/photo-1781795485048-3d98b53632db?auto=format&fit=max&w=1400&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/detail-exterior-8.jpg",
+    "source": "https://unsplash.com/photos/modern-house-with-stone-wall-sh2gc8APbEk",
+    "photographer": "João Emanuel",
+    "originalAlt": "A modern open-plan house with a stone wall overlooking a green lawn",
+    "download": "https://images.unsplash.com/photo-1787088988806-7ec503692b85?auto=format&fit=max&w=1400&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/detail-interior-0.jpg",
+    "source": "https://unsplash.com/photos/a-living-room-with-a-couch-and-a-table-fPVWpK85oLk",
+    "photographer": "Le Quan",
+    "originalAlt": "a living room with a couch and a table",
+    "download": "https://images.unsplash.com/photo-1699239116624-85268dce7377?auto=format&fit=max&w=1400&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/detail-interior-1.jpg",
+    "source": "https://unsplash.com/photos/a-living-room-filled-with-furniture-and-a-wooden-floor-kh7rg4-tk-c",
+    "photographer": "Nadi Spasibenko",
+    "originalAlt": "a living room filled with furniture and a wooden floor",
+    "download": "https://images.unsplash.com/photo-1680773525468-eda783c5bfe7?auto=format&fit=max&w=1400&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/detail-interior-10.jpg",
+    "source": "https://unsplash.com/photos/a-modern-living-room-with-a-large-window-vIbxvHj9m9g",
+    "photographer": "Prydumano Design",
+    "originalAlt": "A modern living room with a large window",
+    "download": "https://images.unsplash.com/photo-1724582586529-62622e50c0b3?auto=format&fit=max&w=1400&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/detail-interior-11.jpg",
+    "source": "https://unsplash.com/photos/a-modern-living-room-with-a-large-window-7NvBEeHDY7M",
+    "photographer": "Lumbardh Plluzhina",
+    "originalAlt": "a modern living room with a large window",
+    "download": "https://images.unsplash.com/photo-1682184805271-11671b7ecf4c?auto=format&fit=max&w=1400&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/detail-interior-12.jpg",
+    "source": "https://unsplash.com/photos/a-bedroom-with-a-large-mirror-1dL6msE7P9s",
+    "photographer": "Bilal Mansuri",
+    "originalAlt": "a bedroom with a large mirror",
+    "download": "https://images.unsplash.com/photo-1663811397207-418a92396ad5?auto=format&fit=max&w=1400&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/detail-interior-13.jpg",
+    "source": "https://unsplash.com/photos/modern-living-room-with-large-windows-and-comfortable-seating-LqGf5UvHCZ8",
+    "photographer": "Aalo Lens",
+    "originalAlt": "Modern living room with large windows and comfortable seating",
+    "download": "https://images.unsplash.com/photo-1757924461488-ef9ad0670978?auto=format&fit=max&w=1400&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/detail-interior-14.jpg",
+    "source": "https://unsplash.com/photos/modern-living-room-with-a-cream-sofa-and-coffee-tables-XWRW66qiRp8",
+    "photographer": "POOJAN THANEKAR",
+    "originalAlt": "Modern living room with a cream sofa and coffee tables",
+    "download": "https://images.unsplash.com/photo-1768144092684-c1a5dd6c7aad?auto=format&fit=max&w=1400&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/detail-interior-2.jpg",
+    "source": "https://unsplash.com/photos/a-living-room-filled-with-furniture-and-a-large-window-9if4MIUhYl8",
+    "photographer": "Le Quan",
+    "originalAlt": "a living room filled with furniture and a large window",
+    "download": "https://images.unsplash.com/photo-1697947656193-a87d460b5fb5?auto=format&fit=max&w=1400&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/detail-interior-4.jpg",
+    "source": "https://unsplash.com/photos/a-living-room-with-a-couch-and-a-table-4Q9aOJF-6vI",
+    "photographer": "Prydumano Design",
+    "originalAlt": "A living room with a couch and a table",
+    "download": "https://images.unsplash.com/photo-1724582586495-d050726cf354?auto=format&fit=max&w=1400&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/detail-interior-5.jpg",
+    "source": "https://unsplash.com/photos/black-and-brown-leather-padded-tub-sofa-Uxqlfigh6oE",
+    "photographer": "Inside Weather",
+    "originalAlt": "black and brown leather padded tub sofa",
+    "download": "https://images.unsplash.com/photo-1567016376408-0226e4d0c1ea?auto=format&fit=max&w=1400&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/detail-interior-6.jpg",
+    "source": "https://unsplash.com/photos/brown-and-white-couch-beside-window-KbytCpI1i5I",
+    "photographer": "aranprime",
+    "originalAlt": "brown and white couch beside window",
+    "download": "https://images.unsplash.com/photo-1599696848652-f0ff23bc911f?auto=format&fit=max&w=1400&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/detail-interior-7.jpg",
+    "source": "https://unsplash.com/photos/modern-living-room-with-sectional-sofa-and-artwork-ugIfsN9l_q4",
+    "photographer": "Aalo Lens",
+    "originalAlt": "Modern living room with sectional sofa and artwork",
+    "download": "https://images.unsplash.com/photo-1758957701419-2c6e266f7988?auto=format&fit=max&w=1400&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/detail-interior-8.jpg",
+    "source": "https://unsplash.com/photos/a-modern-living-room-with-a-large-window-6ybDmGNE2Yg",
+    "photographer": "Prydumano Design",
+    "originalAlt": "A modern living room with a large window",
+    "download": "https://images.unsplash.com/photo-1724582586458-a51791349977?auto=format&fit=max&w=1400&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/detail-interior-9.jpg",
+    "source": "https://unsplash.com/photos/a-living-room-with-a-couch-chair-table-and-speakers-kUNmgV9VNic",
+    "photographer": "Le Quan",
+    "originalAlt": "a living room with a couch, chair, table and speakers",
+    "download": "https://images.unsplash.com/photo-1700474568247-2bf81611b293?auto=format&fit=max&w=1400&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/detail-landscape-0.jpg",
+    "source": "https://unsplash.com/photos/green-grass-in-close-up-photography-NKyOD55x80Y",
+    "photographer": "Elena Kloppenburg",
+    "originalAlt": "green grass in close up photography",
+    "download": "https://images.unsplash.com/photo-1596380087322-63d39c606074?auto=format&fit=max&w=1400&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/detail-landscape-1.jpg",
+    "source": "https://unsplash.com/photos/modern-outdoor-seating-area-with-geometric-sculptures-uPGEDL9mgi8",
+    "photographer": "Sergej *****",
+    "originalAlt": "Modern outdoor seating area with geometric sculptures",
+    "download": "https://images.unsplash.com/photo-1758450399245-0e1c5d4c2536?auto=format&fit=max&w=1400&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/detail-landscape-10.jpg",
+    "source": "https://unsplash.com/photos/bamboo-stalks-and-rocks-in-a-garden-setting-KVUgxjRSjF0",
+    "photographer": "Sergej *****",
+    "originalAlt": "Bamboo stalks and rocks in a garden setting",
+    "download": "https://images.unsplash.com/photo-1761637823183-f5b3176a2fbc?auto=format&fit=max&w=1400&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/detail-landscape-11.jpg",
+    "source": "https://unsplash.com/photos/zen-garden-with-rocks-and-raked-sand-hlN71_QNYjw",
+    "photographer": "Bart Wellens",
+    "originalAlt": "Zen garden with rocks and raked sand",
+    "download": "https://images.unsplash.com/photo-1762876244984-f9d493cf4aa1?auto=format&fit=max&w=1400&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/detail-landscape-12.jpg",
+    "source": "https://unsplash.com/photos/thin-tree-against-white-wall-r674PNFicKo",
+    "photographer": "K Koo",
+    "originalAlt": "A thin tree with green leaves against a plain white wall",
+    "download": "https://images.unsplash.com/photo-1781972869874-c4a01218d8d3?auto=format&fit=max&w=1400&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/detail-landscape-13.jpg",
+    "source": "https://unsplash.com/photos/zen-garden-with-raked-gravel-gLfSKdqs9fM",
+    "photographer": "Stefan Szankowski",
+    "originalAlt": "Raked white gravel surrounding mossy rocks in a traditional Japanese zen garden",
+    "download": "https://images.unsplash.com/photo-1786551282743-0178f2e8aebc?auto=format&fit=max&w=1400&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/detail-landscape-14.jpg",
+    "source": "https://unsplash.com/photos/a-single-white-chair-sits-on-a-green-lawn-ijD2SB9xm_I",
+    "photographer": "Anna Stampfli",
+    "originalAlt": "A single white chair sits on a green lawn",
+    "download": "https://images.unsplash.com/photo-1768898840888-2605bc70b97b?auto=format&fit=max&w=1400&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/detail-landscape-2.jpg",
+    "source": "https://unsplash.com/photos/white-building-with-lush-green-plants-and-zen-garden-jvPBwpLn3ao",
+    "photographer": "māo jiang",
+    "originalAlt": "White building with lush green plants and zen garden",
+    "download": "https://images.unsplash.com/photo-1770086962013-e99d2a302397?auto=format&fit=max&w=1400&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/detail-landscape-3.jpg",
+    "source": "https://unsplash.com/photos/courtyard-with-tree-and-tiled-benches-TuPLW1OfDSg",
+    "photographer": "buatakun satu5",
+    "originalAlt": "A central tree in a gravel courtyard with concrete walls and orange tiled benches",
+    "download": "https://images.unsplash.com/photo-1792553532354-fe35685ae490?auto=format&fit=max&w=1400&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/detail-landscape-4.jpg",
+    "source": "https://unsplash.com/photos/zen-garden-with-raked-gravel-kfV43X-fpa4",
+    "photographer": "Stefan Szankowski",
+    "originalAlt": "A zen garden with raked white gravel, mossy rock islands, and a long wall",
+    "download": "https://images.unsplash.com/photo-1786551282744-b9b587f824bc?auto=format&fit=max&w=1400&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/detail-landscape-5.jpg",
+    "source": "https://unsplash.com/photos/a-white-marble-cube-sculpture-in-a-garden-MKId-UtVfVI",
+    "photographer": "Sergej *****",
+    "originalAlt": "A white marble cube sculpture in a garden",
+    "download": "https://images.unsplash.com/photo-1775977337554-e27c62c94ee0?auto=format&fit=max&w=1400&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/detail-landscape-6.jpg",
+    "source": "https://unsplash.com/photos/bamboo-plant-in-courtyard-doorway-SsCRa_3yJEg",
+    "photographer": "tommao wang",
+    "originalAlt": "A bamboo plant in a small courtyard viewed through a dark glass doorway",
+    "download": "https://images.unsplash.com/photo-1787273781466-26e6d2786c10?auto=format&fit=max&w=1400&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/detail-landscape-7.jpg",
+    "source": "https://unsplash.com/photos/tall-stone-pillar-with-bamboo-leaves-casting-shadows-AkCyqoMuN30",
+    "photographer": "裴锦书 裴",
+    "originalAlt": "Tall stone pillar with bamboo leaves casting shadows",
+    "download": "https://images.unsplash.com/photo-1774417676189-b6235e7d50ef?auto=format&fit=max&w=1400&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/detail-landscape-8.jpg",
+    "source": "https://unsplash.com/photos/orange-wall-with-stone-bench-and-autumn-foliage-wbtVDFBgPi4",
+    "photographer": "Sergej *****",
+    "originalAlt": "Orange wall with stone bench and autumn foliage",
+    "download": "https://images.unsplash.com/photo-1765182104977-3cd0dbac187c?auto=format&fit=max&w=1400&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/detail-landscape-9.jpg",
+    "source": "https://unsplash.com/photos/green-bamboo-plant-casting-shadows-on-a-white-wall-jo3h5rfqokw",
+    "photographer": "裴锦书 裴",
+    "originalAlt": "Green bamboo plant casting shadows on a white wall",
+    "download": "https://images.unsplash.com/photo-1774417676287-e43fa5a3efb1?auto=format&fit=max&w=1400&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/enquiry.jpg",
+    "source": "https://unsplash.com/photos/brown-and-white-couch-beside-window-KbytCpI1i5I",
+    "photographer": "aranprime",
+    "originalAlt": "brown and white couch beside window",
+    "download": "https://images.unsplash.com/photo-1599696848652-f0ff23bc911f?auto=format&fit=max&w=1800&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/material.jpg",
+    "source": "https://unsplash.com/photos/geometric-concrete-stairs-cast-shadows-in-sunlight-AjKly-ZTuEY",
+    "photographer": "Palina Kharlanovich",
+    "originalAlt": "Geometric concrete stairs cast shadows in sunlight",
+    "download": "https://images.unsplash.com/photo-1774762720340-8067294bb494?auto=format&fit=max&w=1800&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/project-01.jpg",
+    "source": "https://unsplash.com/photos/a-tall-building-with-a-palm-tree-in-front-of-it-zRBujTnBwpc",
+    "photographer": "Timo Wielink",
+    "originalAlt": "a tall building with a palm tree in front of it",
+    "download": "https://images.unsplash.com/photo-1674758978719-6121d8fbefb4?auto=format&fit=max&w=1920&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/project-02.jpg",
+    "source": "https://unsplash.com/photos/courtyard-with-tree-and-tiled-benches-TuPLW1OfDSg",
+    "photographer": "buatakun satu5",
+    "originalAlt": "A central tree in a gravel courtyard with concrete walls and orange tiled benches",
+    "download": "https://images.unsplash.com/photo-1792553532354-fe35685ae490?auto=format&fit=max&w=1920&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/project-03.jpg",
+    "source": "https://unsplash.com/photos/a-concrete-building-with-a-wooden-door-and-balcony-npNkhXQrdPY",
+    "photographer": "Yana Marudova",
+    "originalAlt": "a concrete building with a wooden door and balcony",
+    "download": "https://images.unsplash.com/photo-1679513118758-262653925d62?auto=format&fit=max&w=1920&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/project-04.jpg",
+    "source": "https://unsplash.com/photos/modern-concrete-and-wood-house-with-trees-F-slnkFvcag",
+    "photographer": "POOJAN THANEKAR",
+    "originalAlt": "Modern concrete and wood house with trees",
+    "download": "https://images.unsplash.com/photo-1756706718604-ef4af3970e33?auto=format&fit=max&w=1920&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/project-05.jpg",
+    "source": "https://unsplash.com/photos/modern-house-with-stone-wall-sh2gc8APbEk",
+    "photographer": "João Emanuel",
+    "originalAlt": "A modern open-plan house with a stone wall overlooking a green lawn",
+    "download": "https://images.unsplash.com/photo-1787088988806-7ec503692b85?auto=format&fit=max&w=1920&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/project-06.jpg",
+    "source": "https://unsplash.com/photos/white-and-brown-house-near-green-trees-during-daytime-Wx_Ily_Phuk",
+    "photographer": "Pavel Neznanov",
+    "originalAlt": "white and brown house near green trees during daytime",
+    "download": "https://images.unsplash.com/photo-1630908932803-1f6891bfab3f?auto=format&fit=max&w=1920&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/project-07.jpg",
+    "source": "https://unsplash.com/photos/modern-living-room-with-sectional-sofa-and-artwork-ugIfsN9l_q4",
+    "photographer": "Aalo Lens",
+    "originalAlt": "Modern living room with sectional sofa and artwork",
+    "download": "https://images.unsplash.com/photo-1758957701419-2c6e266f7988?auto=format&fit=max&w=1920&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/project-08.jpg",
+    "source": "https://unsplash.com/photos/a-living-room-with-a-couch-and-a-table-4Q9aOJF-6vI",
+    "photographer": "Prydumano Design",
+    "originalAlt": "A living room with a couch and a table",
+    "download": "https://images.unsplash.com/photo-1724582586495-d050726cf354?auto=format&fit=max&w=1920&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/project-09.jpg",
+    "source": "https://unsplash.com/photos/modern-concrete-house-on-stilts-amidst-rocky-green-landscape-psXpVaedGRw",
+    "photographer": "Maverick Frame",
+    "originalAlt": "Modern concrete house on stilts amidst rocky, green landscape",
+    "download": "https://images.unsplash.com/photo-1781795485048-3d98b53632db?auto=format&fit=max&w=1920&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/project-10.jpg",
+    "source": "https://unsplash.com/photos/brown-and-white-couch-beside-window-KbytCpI1i5I",
+    "photographer": "aranprime",
+    "originalAlt": "brown and white couch beside window",
+    "download": "https://images.unsplash.com/photo-1599696848652-f0ff23bc911f?auto=format&fit=max&w=1920&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/project-11.jpg",
+    "source": "https://unsplash.com/photos/curved-concrete-structure-with-board-marked-texture-knOOfAu9geA",
+    "photographer": "Mattia Revelant",
+    "originalAlt": "A curved concrete structure with board-marked texture against a clear blue sky",
+    "download": "https://images.unsplash.com/photo-1787228770216-669baf984e87?auto=format&fit=max&w=1920&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/project-12.jpg",
+    "source": "https://unsplash.com/photos/a-bedroom-with-a-large-mirror-1dL6msE7P9s",
+    "photographer": "Bilal Mansuri",
+    "originalAlt": "a bedroom with a large mirror",
+    "download": "https://images.unsplash.com/photo-1663811397207-418a92396ad5?auto=format&fit=max&w=1920&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/project-13.jpg",
+    "source": "https://unsplash.com/photos/bamboo-plant-in-courtyard-doorway-SsCRa_3yJEg",
+    "photographer": "tommao wang",
+    "originalAlt": "A bamboo plant in a small courtyard viewed through a dark glass doorway",
+    "download": "https://images.unsplash.com/photo-1787273781466-26e6d2786c10?auto=format&fit=max&w=1920&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/project-14.jpg",
+    "source": "https://unsplash.com/photos/a-concrete-building-with-stairs-leading-up-to-it-RECjfdtDVLo",
+    "photographer": "Declan Sun",
+    "originalAlt": "A concrete building with stairs leading up to it",
+    "download": "https://images.unsplash.com/photo-1730170787463-53a7074137fa?auto=format&fit=max&w=1920&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/project-15.jpg",
+    "source": "https://unsplash.com/photos/a-living-room-with-a-couch-chair-table-and-speakers-kUNmgV9VNic",
+    "photographer": "Le Quan",
+    "originalAlt": "a living room with a couch, chair, table and speakers",
+    "download": "https://images.unsplash.com/photo-1700474568247-2bf81611b293?auto=format&fit=max&w=1920&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/project-16.jpg",
+    "source": "https://unsplash.com/photos/white-building-with-lush-green-plants-and-zen-garden-jvPBwpLn3ao",
+    "photographer": "māo jiang",
+    "originalAlt": "White building with lush green plants and zen garden",
+    "download": "https://images.unsplash.com/photo-1770086962013-e99d2a302397?auto=format&fit=max&w=1920&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/studio.jpg",
+    "source": "https://unsplash.com/photos/a-concrete-building-with-a-wooden-door-and-balcony-npNkhXQrdPY",
+    "photographer": "Yana Marudova",
+    "originalAlt": "a concrete building with a wooden door and balcony",
+    "download": "https://images.unsplash.com/photo-1679513118758-262653925d62?auto=format&fit=max&w=1800&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/team-1.jpg",
+    "source": "https://unsplash.com/photos/man-wearing-black-blazer-D-8XODEIr_s",
+    "photographer": "Paolo Bendandi",
+    "originalAlt": "man wearing black blazer",
+    "download": "https://images.unsplash.com/photo-1544225917-1bf66feace19?auto=format&fit=max&w=700&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/team-2.jpg",
+    "source": "https://unsplash.com/photos/a-woman-sitting-on-a-wall-looking-at-her-cell-phone-03tH7KS-2eI",
+    "photographer": "Nicolás Perondi",
+    "originalAlt": "a woman sitting on a wall looking at her cell phone",
+    "download": "https://images.unsplash.com/photo-1639087603990-35efeed3766d?auto=format&fit=max&w=700&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/team-3.jpg",
+    "source": "https://unsplash.com/photos/man-wearing-black-notched-lapel-suit-jacket-vSI2KnI4Abc",
+    "photographer": "Fred Moon",
+    "originalAlt": "man wearing black notched lapel suit jacket",
+    "download": "https://images.unsplash.com/photo-1556474835-b0f3ac40d4d1?auto=format&fit=max&w=700&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/team-4.jpg",
+    "source": "https://unsplash.com/photos/woman-in-white-long-sleeve-shirt-and-blue-pants-sitting-on-white-chair-SuBsuYr1HNw",
+    "photographer": "Vladimir Fedotov",
+    "originalAlt": "woman in white long sleeve shirt and blue pants sitting on white chair",
+    "download": "https://images.unsplash.com/photo-1580651214806-3c55c6c13f5b?auto=format&fit=max&w=700&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  },
+  {
+    "file": "/images/team-5.jpg",
+    "source": "https://unsplash.com/photos/man-working-on-architectural-model-at-desk-WUY0W2RSiBw",
+    "photographer": "GN Group",
+    "originalAlt": "Man working on architectural model at desk",
+    "download": "https://images.unsplash.com/photo-1772442198907-765685249ea4?auto=format&fit=max&w=700&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "retrieved": "2026-10-24"
+  }
+]
